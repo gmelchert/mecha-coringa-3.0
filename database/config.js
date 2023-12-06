@@ -1,9 +1,9 @@
 const config = {
-    host: 'www.baskout.com.br',
-    database: 'bandeiras',
-    user: 'bandeiras',
-    password: 'Band120402!!!',
-    port: '3306'
+    host: '',
+    database: '',
+    user: '',
+    password: '',
+    port: ''
 }
 
 export default config
